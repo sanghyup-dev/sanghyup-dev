@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi! I'm SangHyup Kim, a beginner backend developer from South Korea!<br><br>🔭 I’m currently working on:<br>Building small Spring Boot APIs and improving my algorithmic problem-solving skills<br><br>🤝 I’m looking to collaborate on:<br>end-to-end Java projects<br><br>❓I’m looking for help with:<br>Writing clean, scalable REST APIs and improving system design knowledge.
+# 💫 About Me:  
+Hi! I'm SangHyup Kim, an aspiring backend & productivity-focused developer from South Korea!  
+
+🔭 I’m currently working on:  
+Building small Spring Boot APIs, practicing algorithmic problem-solving, and exploring ways to make workflows more efficient through automation.  
+
+🤝 I’m looking to collaborate on:  
+End-to-end Java projects and productivity tools that improve developer experience or streamline processes.  
+
+❓ I’m looking for help with:  
+Writing clean, scalable REST APIs, improving system design knowledge, and learning best practices for data-driven development.
+
 
 
 # 💻 Tech Stack:
